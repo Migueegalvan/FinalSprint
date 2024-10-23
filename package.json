@@ -1,0 +1,15 @@
+{
+  "name": "finalsprint",
+  "version": "1.0.0",
+  "description": "Trabajo Práctico 4 - Implementación de un Servidor con Express y Arquitectura MVC",
+  "main": "server.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node server.mjs"
+  },
+  "author": "Tu Nombre",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
